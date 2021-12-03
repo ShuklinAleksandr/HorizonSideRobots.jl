@@ -9,7 +9,7 @@ module SituationDatas
     IS_FIXED_ROBOT_POSITION = false # используется как флаг в handle_button_press_event!(...)
     
     # ~~ ЦВЕТА ~~ 
-    const BORDER_COLOR = :"#800000" # цвет границ
+    const BORDER_COLOR = :"#ffffff # цвет границ
     const BODY_COLOR = :"#FFFFFF" # цвет тела робота
     const COLOR_ON_CLICK = :"#FFFFFF" # цвет тела робота при нажатии на него
     const MARKER_COLOR = :"#ffffff" # цвет маркера
